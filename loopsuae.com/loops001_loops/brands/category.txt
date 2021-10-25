@@ -1,0 +1,15 @@
++-----------------+----+------------------------------------------------+------------+----------+
+| category_title  | id | img_path                                       | sort_order | status   |
++-----------------+----+------------------------------------------------+------------+----------+
+| Safety Footwear | 1  | 258815c9b70e78cc586f7686c69dedf817881.jpg      | 1          | Enabled  |
+| Safety Helmets  | 2  | d82319912041449cd31bdb7e7569d1712974.jpg       | 2          | Enabled  |
+| Safety Goggles  | 3  | ebf8b6f941840e37371bc9aa4435c0aa31826.jpg      | 3          | Disabled |
+| Working Gloves  | 4  | <blank>                                        | 4          | Enabled  |
+| Ear Protection  | 5  | <blank>                                        | 5          | Enabled  |
+| Respirators     | 6  | <blank>                                        | 6          | Enabled  |
+| Work Wear       | 7  | <blank>                                        | 7          | Enabled  |
+| Fall Protection | 8  | <blank>                                        | 8          | Enabled  |
+| Other Safety    | 9  | <blank>                                        | 9          | Enabled  |
+| Cabinets        | 10 | <blank>                                        | 10         | Enabled  |
+| none            | 11 | b71719b218ab321a72c2ef317598baf11215617371.jpg | 0          | Enabled  |
++-----------------+----+------------------------------------------------+------------+----------+
