@@ -1,0 +1,10 @@
++---------------+--------------------+
+| User          | Db                 |
++---------------+--------------------+
+| logics        | logics             |
+| logicstudio   | logicstudio        |
+| logics        | logics             |
+| logicstudio   | logicstudio        |
+| mysql.session | performance_schema |
+| mysql.sys     | sys                |
++---------------+--------------------+
