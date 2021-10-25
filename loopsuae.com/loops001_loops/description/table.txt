@@ -1,0 +1,786 @@
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------+---------
+------+------------------------------------------------------------------------------------------------------------+-----------------------------------------------------
+---------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------
+---------------------------------------------------------+----------------------------------------------------------------------------------------------------+----------
+---------------------------------------------------+-------------------------------------------------------------+-----------------------------------------+-----+-------
+--------+                                                                                                                                                                
+| cat_id  | description1                                                                                                                                       | descript
+ion10 | description2                                                                                               | description3                                        
+               | description4                                                                                             | description5                                 
+                                                         | description6                                                                                       | descripti
+on7                                                | description8                                                | description9                            | id  | produc
+t_title |                                                                                                                                                                
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------+---------
+------+------------------------------------------------------------------------------------------------------------+-----------------------------------------------------
+---------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------
+---------------------------------------------------------+----------------------------------------------------------------------------------------------------+----------
+---------------------------------------------------+-------------------------------------------------------------+-----------------------------------------+-----+-------
+--------+                                                                                                                                                                
+| 5       | Corded PU-foam earplug                                                                                                                             | <blank> 
+      | SNR 37dB                                                                                                   | NRR 32dB                                            
+               | Highest SNR and NRR available in PU-foam earplug                                                         | Disposable and one size fit                  
+                                                         | Available in orange colour                                                                         | Packing: 
+one pr/ poly bag, 2000prs/ctn                      | ORIGIN : TAIWAN                                             | Description of carton - 59 x 36 x 33 cm | 100 | VPC   
+        |                                                                                                                                                                
+| 5       | Uncorded PU-foam earplug                                                                                                                           | <blank> 
+      | SNR 37dB                                                                                                   | NRR 32dB                                            
+               | Highest SNR and NRR available in PU-foam earplug                                                         | Disposable and one size fit                  
+                                                         | Available in orange colour                                                                         | Packing: 
+200prs/polybag, 2000prs/ctn                        | ORIGIN : TAIWAN                                             | Description of carton - 59 x 36 x 33 cm | 101 | VPU   
+        |                                                                                                                                                                
+| 5       | Banded earplug                                                                                                                                     | <blank> 
+      | SNR 21dB                                                                                                   | Plugs exchangeable, special-shaped plugs provide a c
+omfortable fit | Plug and band available in one colour                                                                    | Band prevents ear pads from dirty or contamin
+ated surfaces                                            | Can be hanged around the neck,                                                                     | Packing: 
+one pair/ poly bag, 40prs/ inner box               | ORIGIN : TAIWAN                                             | Description of carton- 88 x 36 x 35 cm  | 102 | VEB   
+        |                                                                                                                                                                
+| 5       | Classic ear muff with blister packing.                                                                                                             | <blank> 
+      | Light weight and comfortable                                                                               | 3-position adjustable                               
+               | Light weight and comfortable                                                                             | Advanced headband construction               
+                                                         | Packing: 30pcs / per carton                                                                        | ORIGIN : 
+TAIWAN                                             | Description of carton - 72 x 48 x 36 cm                     | <blank>                                 | 103 |  EMB  
+        |                                                                                                                                                                
+| 5       | Classic ear muff in normal packing                                                                                                                 | <blank> 
+      | Light weight and comfortable                                                                               | 3-position adjustable                               
+               | Light weight and comfortable                                                                             | Advanced headband construction               
+                                                         | Packing: 40pcs / per carton                                                                        | ORIGIN : 
+TAIWAN                                             | Description of carton - 55 x 43 x 37 cm                     | <blank>                                 | 104 | EML   
+        |                                                                                                                                                                
+| 5       | Helmet Mounted Earmuff                                                                                                                             | <blank> 
+      | Light weight and comfortable                                                                               | 3-position adjustable                               
+               | Advanced headband constructionq                                                                          | Packing: 40pcs / per carton                  
+                                                         | ORIGIN : TAIWAN                                                                                    | Descripti
+on of carton - 55 x 43 x 37 cm                     | <blank>                                                     | <blank>                                 | 105 | ET50  
+        |                                                                                                                                                                
+| 5       | Corded PU-foam earplug                                                                                                                             | <blank> 
+      | SNR 37dBNRR 32dB                                                                                           | SNR and NRR available in PU-foam                    
+               | earplugDisposable and one size fitAvailable in orange colour                                             | Packing : one pr/ poly bag, 2000prs/ctn      
+                                                         | ORIGIN : MADE IN CHINA                                                                             | Descripti
+on of carton : 59 X 36 X 33 CM                     | <blank>                                                     | <blank>                                 | 106 | MP1   
+        |                                                                                                                                                                
+| 5       | N95 Respirator with butterfly clip.                                                                                                                | <blank> 
+      | American standard, NIOSH Certificate                                                                       | Low breathing resistant                             
+               | Highly efficient filtering media / Long duration                                                         | Exhalation valve reduces hot air build up and
+ enables easy breathing in hot / humid enviornments      | Heavy-duty head straps, adjustable nose clip and soft foam nose piece for comfortable custom fit . | ORIGIN :T
+AIWAN                                              | Packing - 10pcs / Aluminized pack , 20 boxes in one carton. | Dimensions - 71 x 44 x 29 cm            | 107 | VB1 F7
+20V     |                                                                                                                                                                
+| 5       | N95 Respirator with butterfly clip.                                                                                                                | <blank> 
+      | American standard, NIOSH Certificate                                                                       | Low breathing resistant                             
+               | Highly efficient filtering media                                                                         | Long duration                                
+                                                         | Heavy-duty head straps, adjustable nose clip and soft foam nose piece for comfortable custom fit . | Packing -
+ 20pcs / Aluminized pack , 20 boxes in one carton. | ORIGIN : TAIWAN                                             | Dimensions - 72 x 44 x 29 cm            | 108 | VB2 F7
+20      |                                                                                                                                                                
+| 5       | N95 Respirator with butterfly clip.                                                                                                                | <blank> 
+      | American standard, NIOSH Certificate                                                                       | Low breathing resistant                             
+               | Highly efficient filtering media / Long duration                                                         | Exhalation valve reduces hot air build up and
+ enables easy breathing in hot / humid enviornments      | Heavy-duty head straps, adjustable nose clip and soft foam nose piece for comfortable custom fit . | ORIGIN : 
+TAIWAN                                             | Packing - 10pcs / Aluminized pack , 20 boxes in one carton. | Dimensions - 72 x 44 x 29 cm            | 109 |  VB3 F
+720CV   |                                                                                                                                                                
+| 5       | N95 Respirator                                                                                                                                     | <blank> 
+      | American standard, NIOSH Certificate                                                                       | Low breathing resistant                             
+               | Highly efficient filtering media                                                                         | Long duration                                
+                                                         | Heavy-duty head straps, adjustable nose clip and soft foam nose piece for comfortable custom fit . | ORIGIN :T
+AIWAN                                              | Packing - 20pcs / box, 20 boxes in one carton.              | Dimensions - 72 x 41 30 cm              | 110 | VM F71
+0       |                                                                                                                                                                
+| 5       | N95 Respirator                                                                                                                                     | <blank> 
+      | American standard, NIOSH Certificate                                                                       | Low breathing resistant                             
+               | Highly efficient filtering media / Long duration                                                         | Exhalation valve reduces hot air build up and
+ enables easy breathing in hot / humid enviornments      | Heavy-duty head straps, adjustable nose clip and soft foam nose piece for comfortable custom fit . | ORIGIN : 
+TAIWAN                                             | Packing - 10pcs / box, 20 boxes in one carton.              | Dimensions - 72 x 41 30 cm              | 111 | VMV F7
+10V     |                                                                                                                                                                
+| 9       | Model - 4710GI                                                                                                                                     | <blank> 
+      | Emergency Eye wash (hand / foot operated )                                                                 | ORIGIN : INDIA                                      
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 112 | 4710GI
+        |                                                                                                                                                                
+| 9       | Model - 4810                                                                                                                                       | <blank> 
+      | Emergency Eye wash (wall mounted )                                                                         | ORIGIN : INDIA                                      
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 113 |  4810 
+        |                                                                                                                                                                
+| 9       | Model - 6220GI                                                                                                                                     | <blank> 
+      | Emergency Shower cum eye wash (hand operated) GI                                                           | ORIGIN : INDIA                                      
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 114 | 6220GI
+        |                                                                                                                                                                
+| 9       | Model - 6250GI                                                                                                                                     | <blank> 
+      | Emergency Shower cum eye wash (hand/foot operated) GI                                                      | ORIGIN : INDIA                                      
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 115 | 6250GI
+        |                                                                                                                                                                
+| 9       | Model - 6250SS                                                                                                                                     | <blank> 
+      | Emergency Shower cum eye wash (hand/foot operated) SS                                                      | Made in India                                       
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 116 |  6250S
+S       |                                                                                                                                                                
+| 8       | Full body harness - UB103 made of 44 mm polyester red/yellow webbing having one dorsal D ring and two chest D rings made of zinc plated mild steel | <blank> 
+      | Full adjustable shoulder and thigh straps.                                                                 | Ideal position side strap for extended comfort.     
+               | EN361-2002EN361-2002                                                                                     | ORIGIN : INDIA                               
+                                                         | Packing - 10 Sets / Harness + Lanyard in one Carton                                                | Dimension
+s - 61 x 30 x 26 cm                                | <blank>                                                     | <blank>                                 | 117 |  UB103
+        |                                                                                                                                                                
+| 8       | UB 104 :A Full Body Harness ideal to used with vertical anchorage system and telecom industries                                                    | <blank> 
+      | Integrated work-positioning belt with two lateral D - rings                                                | Fully adjustable shoulder and thigh straps          
+               | Single dorsal attachment D-ring                                                                          | Ideally positioned side strap for extended co
+mfort                                                    | Two chest attachment D-rings                                                                       | ORIGIN : 
+INDIA                                              | Packing - 5 pcs in one Carton                               | Dimensions - 60 x 30 x 28 cm            | 118 | UB104 
+        |                                                                                                                                                                
+| 8       | Full body harness - UB103 made of 44 mm polyester red/yellow webbing having one dorsal D ring and two chest D rings made of zinc plated mild steel | <blank> 
+      | Full adjustable shoulder and thigh straps.                                                                 | Ideal position side strap for extended comfort.     
+               | EN361-2002EN361-2002                                                                                     | ORIGIN : INDIA                               
+                                                         | Packing - 10 Sets / Harness + Lanyard in one Carton                                                | Dimension
+s - 66 x 31 x 32 cm                                | <blank>                                                     | <blank>                                 | 119 | UB105 
+        |                                                                                                                                                                
+| 8       | Twin webbing lanyard with shock absorber.                                                                                                          | <blank> 
+      | One side Easy 308 karabiner.                                                                               | Other side two scaffolding easy SH 60 snap hook.    
+               | EN-355                                                                                                   | ORIGIN : INDIA                               
+                                                         | Packing - 10 Sets / Harness + Lanyard in one Carton                                                | Dimension
+s - 64 x 31 x 27 cm                                | <blank>                                                     | <blank>                                 | 120 | WL22Y 
+        |                                                                                                                                                                
+| 8       | Twin webbing lanyard with shock absorber.                                                                                                          | <blank> 
+      | One side Easy 308 karabiner.                                                                               | Other side two scaffolding easy SH 60 snap hook.    
+               | EN-355                                                                                                   | ORIGIN : INDIA                               
+                                                         | Packing - 10 Sets / Harness + Lanyard in one Carton                                                | Dimension
+s - 66 x 31 x 32 cm                                | <blank>                                                     | <blank>                                 | 121 | WL30  
+        |                                                                                                                                                                
+| 8       | Single webbing lanyard with shock absorber.                                                                                                        | <blank> 
+      | One side Easy 308 karabiner.                                                                               | Other side one scaffolding easy SH 60 snap hook.    
+               | EN-355                                                                                                   | ORIGIN : INDIA                               
+                                                         | Packing - 10 Sets / Harness + Lanyard in one Carton                                                | Dimension
+s - 61 x 30 x 26 cm                                | <blank>                                                     | <blank>                                 | 122 |  WL01Y
+        |                                                                                                                                                                
+| 8       | Doubble Elastic Lanyard                                                                                                                            | <blank> 
+      | One side Easy 308 karabiner.                                                                               | Other side two scaffolding easy SH 60 snap hook.    
+               | EN-355                                                                                                   | ORIGIN : INDIA                               
+                                                         | Packing - 10 Sets / Harness + Lanyard in one Carton                                                | Dimension
+s - 64 x 31 x 27 cm                                | <blank>                                                     | <blank>                                 | 123 | EL22  
+        |                                                                                                                                                                
+| 8       | Single webbing lanyard.                                                                                                                            | <blank> 
+      | One side Easy 308 karabiner.                                                                               | Other side one scaffolding easy SH 60 snap hook.    
+               | EN-355                                                                                                   | ORIGIN : INDIA                               
+                                                         | Packing - 10 Sets / Harness + Lanyard in one Carton                                                | Dimension
+s - 61 x 30 x 26 cm                                | <blank>                                                     | <blank>                                 | 124 | WL05  
+        |                                                                                                                                                                
+| 8       | Themoform back support                                                                                                                             | <blank> 
+      | Two lateral D ring of forged alloy steel                                                                   | Ring provided for tool holders                      
+               | ORIGIN : INDIA                                                                                           | Packing - 10 pcs in one Carton               
+                                                         | Dimensions - 63 x 30 x 31 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 125 | WP01S 
+        |                                                                                                                                                                
+| 7       | Material - 100% Twill Cotton                                                                                                                       | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 54 x 39 x 31 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 126 | 1PAT  
+        |                                                                                                                                                                
+| 7       | Material - 35/65 Poly-Cotton coveralls.                                                                                                            | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 40 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 50 x 39 x 37 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 127 | PAT   
+        |                                                                                                                                                                
+| 7       | Material - 100% Twill pant shirts                                                                                                                  | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Cartonq                                                                          | ORIGIN : CHINA                               
+                                                         | Dimensions - 54 x 39 x 33 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 128 | CPAT  
+        |                                                                                                                                                                
+| 7       | Material - 100% Twill Cotton                                                                                                                       | <blank> 
+      | Colour - Navy Blue                                                                                         | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 54 x 39 x 33 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 129 |  CNAT 
+        |                                                                                                                                                                
+| 7       | Material - 100% Cotton Coveralls ( Sanforized and Mercerized )                                                                                     | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 59 x 39 x 28 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 130 | N100  
+        |                                                                                                                                                                
+| 7       | Material - 35/65 Poly-Cotton coveralls.                                                                                                            | <blank> 
+      | Colour - Navy Blue                                                                                         | Sizes - S - 5XL                                     
+               | Packing - 40 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 50 x 39 x 37 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 131 | NAT   
+        |                                                                                                                                                                
+| 7       | Material - 100% Twill Cotton                                                                                                                       | <blank> 
+      | Colour - Navy Blue                                                                                         | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 54 x 39 x 31 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 132 | 1NAT  
+        |                                                                                                                                                                
+| 7       | Material - 100% Twill Cotton                                                                                                                       | <blank> 
+      | Colour - Orange                                                                                            | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 54 x 39 x 31 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 133 | 1OAT  
+        |                                                                                                                                                                
+| 7       | Material - 100% Cotton Pant Shirts ( Sanforized and Mercerized )                                                                                   | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 51 x 39 x 28 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 134 |  C2P  
+        |                                                                                                                                                                
+| 7       | Material - 35/65 Poly-Cotton Pant Shirts.                                                                                                          | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 40 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 52 x 39 x 36 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 135 | 2PWL  
+        |                                                                                                                                                                
+| 7       | Material - 100% Cotton Coveralls ( Sanforized and Mercerzed )                                                                                      | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 59 x 39 x 28 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 136 | W100  
+        |                                                                                                                                                                
+| 7       | Material - Heavy Duty 100% Cotton Coveralls with reflective tapes ( Sanforized and Mercerized )                                                    | <blank> 
+      | Colour - Orange                                                                                            | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 55 x 38 x 32 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 137 | VOR   
+        |                                                                                                                                                                
+| 7       | Material - Fire Proof Cotton Coveralls ( Sanforized and Mercerized ) CE - EN ISO 11612:2008, EN ISO 15025:2002                                     | <blank> 
+      | Colour - Royal Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 62 x 42 x 32 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 138 | FRR   
+        |                                                                                                                                                                
+| 7       | Material - Fire Proof Cotton Coveralls ( Sanforized and Mercerized ) CE - EN ISO 11612:2008, EN ISO 15025:2002                                     | <blank> 
+      | Colour - Navy Blue                                                                                         | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimensions - 62 x 42 x 32 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 139 | FRN   
+        |                                                                                                                                                                
+| 7       | Material - Fire Proof Cotton Coveralls ( Sanforized and Mercerized )                                                                               | <blank> 
+      | CE - EN ISO 11612:2008, EN ISO 15025:2002                                                                  | Colour - Orange                                     
+               | Sizes - S - 5XL                                                                                          | Packing - 25 pcs in one Carton               
+                                                         | ORIGIN : CHINA                                                                                     | Dimension
+s - 62 x 42 x 32 cm                                | <blank>                                                     | <blank>                                 | 140 | FRO   
+        |                                                                                                                                                                
+| 7       | Material - 35/65 Poly-Cotton coveralls.                                                                                                            | <blank> 
+      | Colour - Navy Blue                                                                                         | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimentions - 51 x 39 x 25 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 141 | VCN   
+        |                                                                                                                                                                
+| 7       | Material - 35/65 Poly-Cotton coveralls.                                                                                                            | <blank> 
+      | Colour - Petro Blue                                                                                        | Sizes - S - 5XL                                     
+               | Packing - 25 pcs in one Carton                                                                           | ORIGIN : CHINA                               
+                                                         | Dimentions - 51 x 39 x 25 cm                                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 142 | VCP   
+        |                                                                                                                                                                
+| 7       | Disposable coverall with hood                                                                                                                      | <blank> 
+      | Weight - 40 GSM                                                                                            | Colour - White                                      
+               | Sizes - S - 5XL                                                                                          | Packing - 100 pcs in one Carton              
+                                                         | ORIGIN : CHINA                                                                                     | Dimension
+s - 50 x 49 x36 cm                                 | <blank>                                                     | <blank>                                 | 143 | DCC   
+        |                                                                                                                                                                
+| 7       | Disposable coverall with hood                                                                                                                      | <blank> 
+      | Weight - 30 GSM                                                                                            | Colour - White                                      
+               | Sizes - S - 5XL                                                                                          | Packing - 100 pcs in one Carton              
+                                                         | ORIGIN : CHINA                                                                                     | Dimension
+s - 60 x 49 x 36 cm                                | <blank>                                                     | <blank>                                 | 144 | DCL   
+        |                                                                                                                                                                
+| 7       | Polynet with velcro fastner                                                                                                                        | <blank> 
+      | Two reflective band on body                                                                                | Two reflective band on shoulder                     
+               | Colour - Yellow / Orange                                                                                 | Sizes - One Size Fits All                    
+                                                         | Packing - 200 pcs in one Carton                                                                    | ORIGIN : 
+CHINA                                              | Dimensions - 50 x 38 x 36 cm                                | <blank>                                 | 145 | VNJ   
+        |                                                                                                                                                                
+| 7       | Polyster Fabric with velcro fastner                                                                                                                | <blank> 
+      | Two reflective band on body                                                                                | Two reflective band on shoulder                     
+               | Colour - Yellow / Orange                                                                                 | Sizes - One Size Fits All                    
+                                                         | Packing - 200 pcs in one Carton                                                                    | ORIGIN : 
+CHINA                                              | Dimensions - 50 x 38 x 36 cm                                | <blank>                                 | 146 | VFJ   
+        |                                                                                                                                                                
+| 7       | Polynet with velcro fastner                                                                                                                        | <blank> 
+      | Two reflective band on body                                                                                | Two reflective band on shoulder                     
+               | Colour - Yellow / Orange                                                                                 | Sizes - One Size Fits All                    
+                                                         | Packing - 100 pcs in one Cartonq                                                                   | ORIGIN : 
+CHINA                                              | Dimensions - 50 x 44 x 37 cm                                | <blank>                                 | 147 | 4VNJ  
+        |                                                                                                                                                                
+| 7       | Polyster Fabric with velcro fastner                                                                                                                | <blank> 
+      | Two reflective band on body                                                                                | Colour - Yellow / Orange                            
+               | Sizes - S - 5XL                                                                                          | Packing - 200 pcs in one Carton              
+                                                         | ORIGIN : CHINA                                                                                     | Dimension
+s - 50 x 43 x34 cm                                 | <blank>                                                     | <blank>                                 | 148 | MFJ2  
+        |                                                                                                                                                                
+| 7       | Heavy duty Polynet Fabric with velcro fastner. With Four pockets.                                                                                  | <blank> 
+      | Two high visibility reflective band on body                                                                | Two high visibility reflective band on shoulder     
+               | Colour - Yellow                                                                                          | Sizes - One Size Fits All                    
+                                                         | Packing - 100 pcs in one Carton                                                                    | ORIGIN : 
+TAIWAN                                             | Dimensions - 50 x 44 x34 cm                                 | <blank>                                 | 149 | VNR   
+        |                                                                                                                                                                
+| 7       | Polyster Fabric with velcro fastner. With Four pockets.                                                                                            | <blank> 
+      | Two reflective band on body                                                                                | Two reflective band on shoulder                     
+               | Colour - Yellow                                                                                          | Sizes - One Size Fits All                    
+                                                         | Packing - 100 pcs in one Carton                                                                    | ORIGIN : 
+TAIWAN                                             | Dimensions - 50 x 44 x34 cm                                 | <blank>                                 | 150 | VFP   
+        |                                                                                                                                                                
+| 7       | Exterior : Polyster                                                                                                                                | <blank> 
+      | Interior : 100% Nylon/Front zip and sud fastening                                                          | Fold away hood in collar                            
+               | Two full sizes front pockets                                                                             | Sizes - S - 5XL                              
+                                                         | Packing - 20 pcs in one Carton                                                                     | ORIGIN : 
+CHINA                                              | Dimensions - 65 x 50 x 41 cm                                | <blank>                                 | 151 |  JG   
+        |                                                                                                                                                                
+| 7       | Exterior : Polyster /Interior : 100% Nylon                                                                                                         | <blank> 
+      | Front zip and sud fastening                                                                                | Fold away hood in collar                            
+               | Two full sizes front pockets                                                                             | Sizes - S - 5XL                              
+                                                         | Packing - 20 pcs in one Carton                                                                     | ORIGIN : 
+CHINA                                              | Dimensions - 66 x 52 x 39 cm                                | <blank>                                 | 152 | WJKT1 
+        |                                                                                                                                                                
+| 7       | Polyster Fabric with velcro fastner                                                                                                                | <blank> 
+      | Two reflective band on body                                                                                | SIZE : Sizes - One Size Fits All                    
+               | Colour : Yellow and orange                                                                               | Packing : 200 Pcs per carton                 
+                                                         | ORIGIN : China                                                                                     | Descripti
+on of carton : 50 X43 X 34 CM                      | <blank>                                                     | <blank>                                 | 153 | MFJ2  
+        |                                                                                                                                                                
+| 10      | Origin : Taiwan                                                                                                                                    | <blank> 
+      | External Dimensions     W x D x H mm(in.) : 1090*460*1190 (43*18*47)                                       | Capacity Gal.(L) : 30(114                           
+               | # of Shelves : Manual (double door)                                                                      | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 169 | CCE-03
+0-BA-A  |                                                                                                                                                                
+| 10      | Origin : Taiwan                                                                                                                                    | <blank> 
+      | External Dimensions     W x D x H mm(in.) : 1090*460*1720 (43*18*68)                                       | Capacity Gal.(L) : 45(170)                          
+               | # of Shelves : 2                                                                                         | Door Style : Manual(double door)             
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 170 | CCE-04
+5-BA-A  |                                                                                                                                                                
+| 10      | Origin : Taiwan                                                                                                                                    | <blank> 
+      | only one FM approval of the world                                                                          | External Dimensions     W x D x H mm(in.) : 435*435*
+630 (17*17*25  | Capacity Gal.(L) L: 4(15)                                                                                | # of Shelves : 1                             
+                                                         | Door Style : Right hand/Manual (single door)                                                       | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 171 | CCG-00
+4-BA-A  |                                                                                                                                                                
+| 10      | Origin : Taiwan                                                                                                                                    | <blank> 
+      | External Dimensions     W x D x H mm(in.) : 595*460*960 (23*18*38                                          | Capacity Gal.(L) : 12(45)                           
+               | # of Shelves : 1                                                                                         | Door Style : Right hand/Manual  (single door)
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 172 | CCG-01
+2-BA-A  |                                                                                                                                                                
+| 10      | Origin : Taiwan                                                                                                                                    | <blank> 
+      | External Dimensions     W x D x H mm(in.) : 595*460*960 (23*18*38)                                         | Capacity Gal.(L) : 12(45)                           
+               | # of Shelves : 1                                                                                         | Door Style : Right hand/Self-close           
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 173 | CCG-01
+2-AA-A  |                                                                                                                                                                
+| 10      | Origin : Taiwan                                                                                                                                    | <blank> 
+      | External Dimensions     W x D x H mm(in.) : 595*460*1190 (23*18*47)                                        | Capacity Gal.(L) : 15(57)                           
+               | # of Shelves : 1                                                                                         | Door Style : Right hand/Manual (single door) 
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 174 | dD7dsZ
+zv      |                                                                                                                                                                
+| <blank> | <blank>                                                                                                                                            | <blank> 
+      | <blank>                                                                                                    | <blank>                                             
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 180 | <blank
+>       |                                                                                                                                                                
+| <blank> | <blank>                                                                                                                                            | <blank> 
+      | <blank>                                                                                                    | <blank>                                             
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 185 | <blank
+>       |                                                                                                                                                                
+| <blank> | <blank>                                                                                                                                            | <blank> 
+      | <blank>                                                                                                    | <blank>                                             
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 187 | <blank
+>       |                                                                                                                                                                
+| <blank> | <blank>                                                                                                                                            | <blank> 
+      | <blank>                                                                                                    | <blank>                                             
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 192 | SC    
+        |                                                                                                                                                                
+| 11      | <blank>                                                                                                                                            | <blank> 
+      | <blank>                                                                                                    | <blank>                                             
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 220 | lol   
+        |                                                                                                                                                                
+| 22      | 2                                                                                                                                                  | -1      
+      | 3                                                                                                          | 4                                                   
+               | 5                                                                                                        | <blank>                                      
+                                                         | 6                                                                                                  | 8        
+                                                   | 9                                                           | 0                                       | 23  | 0     
+        |                                                                                                                                                                
+| 22      | 3                                                                                                                                                  | 2183728 
+      | 4                                                                                                          | 5                                                   
+               | 6                                                                                                        | <blank>                                      
+                                                         | 7                                                                                                  | 9        
+                                                   | 0                                                           | 1019892                                 | 24  | 1     
+        |                                                                                                                                                                
+| 22      | <blank>                                                                                                                                            | <blank> 
+      | <blank>                                                                                                    | <blank>                                             
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 25  | 1     
+        |                                                                                                                                                                
+| 22      | a                                                                                                                                                  | <blank> 
+      | <blank>                                                                                                    | <blank>                                             
+               | <blank>                                                                                                  | <blank>                                      
+                                                         | <blank>                                                                                            | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 26  | 1     
+        |                                                                                                                                                                
+| 3       | Model Number - UD07 ( 3956 )                                                                                                                       | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating/Crystal PVC Frame / Clea
+r Lens / With Black Strap                                | Available in Clear Lens                                                                            | ORIGIN : 
+TAIWAN                                             | Packing - 100 pcs in one Carton                             | Dimension of Carton - 75 X 41 X 41 cm   | 40  | V07   
+        |                                                                                                                                                                
+| 3       | Model Number - UD09 ( 91715 )                                                                                                                      | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating/Fog crystal black PC tem
+ple / Orange tip.                                        | Available in Clear and Yellow Lens                                                                 | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 81 x2 6x 62 cm    | 41  | V09   
+        |                                                                                                                                                                
+| 3       | Model Number - UD11 ( 3854 )                                                                                                                       | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating.                        
+                                                         | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 100 pcs in one Cartonq                            | Dimension of Carton - 86 x 22 x 62 cm   | 42  | V11   
+        |                                                                                                                                                                
+| 3       | Polycarbonate lenses provide 99.9% UV protection.                                                                                                  | <blank> 
+      | Meets the requirements of EN166 or ANSI Z87.1.                                                             | Impact-resistant, lightweight and comfortable.      
+               | Anti-scratch coating / Nylon black adjustable temples                                                    | Available in Clear and Grey Lens.            
+                                                         | ORIGIN : TAIWAN                                                                                    | Packing -
+ 300 pcs in one Carton                             | Dimension of Carton - 86 x 30 x 62 cm                       | <blank>                                 | 43  | V15   
+        |                                                                                                                                                                
+| 3       | Model Number - UD19(90957A)                                                                                                                        | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog crystal nylon blac
+k adjustable temples.                                    | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 82 x 26 x 62 cm   | 44  | V19   
+        |                                                                                                                                                                
+| 3       | Model Number - UD21(91974)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Crystal temple / Orang
+e rubber tip.                                            | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 82 x 26 x 62 cm   | 45  |  V21  
+        |                                                                                                                                                                
+| 3       | Model Number - UD29(92089)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog black crystal adju
+stable temples / orange tip.                             | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 87 x 30 x 62 cm   | 46  | V29   
+        |                                                                                                                                                                
+| 3       | Model Number - UD30(9156W)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Crystal Frame         
+                                                         | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 62 X 87 X 29 cm   | 47  |  V30  
+        |                                                                                                                                                                
+| 3       | Model Number - UD39(SG-90A)                                                                                                                        | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.q                                                          | Anti-scratch coating / Crystal PVC Frame / Cl
+ear lens / Anti Scratch / Black Strap                    | Available in Clear Lens                                                                            | ORIGIN : 
+TAIWAN                                             | Packing - 100 pcs in one Carton                             | Dimension of Carton - 74 x 41 x 40 cm   | 48  | V39   
+        |                                                                                                                                                                
+| 3       | Model Number - UD41(92092)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog crystal nylon fram
+e / Grey tip                                             | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 80 x 24 x 62 cm   | 49  | V41   
+        |                                                                                                                                                                
+| 3       | Model Number - UD46(9844)                                                                                                                          | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Shiny black frame with
+ adjustable temples.                                     | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 80 x 26 x 61 cm   | 50  | V46   
+        |                                                                                                                                                                
+| 3       | Model Number - UD49(3944)                                                                                                                          | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Black Nylon frame / br
+own 1.1 Polarized lens.                                  | Available in Brown Lens                                                                            | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 80 x 26 x 61 cm   | 51  |  V49  
+        |                                                                                                                                                                
+| 3       | Model Number - UD50(91120)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Blue frame and Adjusta
+ble temples.                                             | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 61 x 82 x 25 cm   | 52  | V50   
+        |                                                                                                                                                                
+| 3       | Model Number - UD58(90958A)                                                                                                                        | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog black nylon frame 
+/ Adjustable temples                                     | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 61 x 82 x 25 cm   | 53  |  V58  
+        |                                                                                                                                                                
+| 3       | Model Number - UD61(92104)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog nylon black frame 
+/ adjustable temples                                     | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 88 x 30 x 62 cm   | 54  | V61   
+        |                                                                                                                                                                
+| 3       | Model Number - UD69(91659)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog blue nylon frame w
+ith adjustable temples.                                  | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 82 x 26 x 62 cm   | 55  | V69   
+        |                                                                                                                                                                
+| 3       | Model Number - UD71(90960)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog crystal temples.  
+                                                         | Available in Clear, Grey & Yellow Lens                                                             | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 80 x 26 x 61 cm   | 56  | V71   
+        |                                                                                                                                                                
+| 3       | Model Number - UD73(90960)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog crystal temples / 
+Indoor outdoor lens                                      | Available in Clear & Grey Lens.                                                                    | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 80 x 26 x 61 cm   | 57  | V73   
+        |                                                                                                                                                                
+| 3       | Model Number - UD79(91384)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Photochromatic and Anti-scratch coating / Fog
+ black nylon frame / With rubber temple / With nose pad. | Available in Clear Lens                                                                            | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 82 x 26 x 62 cm   | 58  |  V79  
+        |                                                                                                                                                                
+| 3       | Model Number - UD81(91532-1)                                                                                                                       | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog crystal temples / 
+black tip in black and orange tip in clear.              | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 81 x 26 x 61.5 cm | 59  | V81   
+        |                                                                                                                                                                
+| 3       | Model Number - UD89(91708)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog black nylon frame 
+/ orange line                                            | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 81 x 26 x 62 cm   | 60  | V89   
+        |                                                                                                                                                                
+| 3       | Model Number - UD91(91948)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating Fog crystal temples / ma
+tt red temple ends.                                      | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 81 x 26 x 61 cm   | 61  | V91   
+        |                                                                                                                                                                
+| 3       | Model Number - UD92(91948)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti Fog and Anti-scratch coating / Fog cryst
+al temples / clear lens / matt red temple ends.          | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 80 x 26 x 61 cm   | 63  | V92   
+        |                                                                                                                                                                
+| 3       | Model Number - UD93(91948)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog crystal temples / 
+Indoor Outdoor / matt red temple ends.                   | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 81 x 26 x 61 cm   | 64  | V93   
+        |                                                                                                                                                                
+| 3       | Polycarbonate lenses provide 99.9% UV protection.                                                                                                  | <blank> 
+      | Meets the requirements of EN166 or ANSI Z87.1.                                                             | Impact-resistant, lightweight and comfortable.      
+               | Gas welding and Anti-scratch coating / PVC Frame / Cover PC lens X                                       | 1.0MM & Filter lens shade No.5 X 2.0MM       
+                                                         | Available in Dark Lens                                                                             | ORIGIN : 
+TAIWAN                                             | Packing - 100 pcs in one Carton                             | Dimension of Carton - 76 x 41 x 40 cm   | 65  | V95   
+        |                                                                                                                                                                
+| 3       | Model Number - UD109(92127)                                                                                                                        | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog black PC frame / r
+ed tip.                                                  | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 61 x 81 x 25 cm   | 66  | V109  
+        |                                                                                                                                                                
+| 3       | Model Number - UD111(90996RA)                                                                                                                      | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti Fog and Anti-scratch coating / Blue Fron
+t Frame / Red & White adjustable temple.                 | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 87 x 29 x 61 cm   | 67  | V111  
+        |                                                                                                                                                                
+| 3       | Model Number - UD119(92090)                                                                                                                        | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Fog black PC adjustabl
+e temple / Orange tip.                                   | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 62 x 82 x 25 cm   | 68  |  V119 
+        |                                                                                                                                                                
+| 3       | Polycarbonate lenses provide 99.9% UV protection.                                                                                                  | <blank> 
+      | Meets the requirements of EN166 or ANSI Z87.1.                                                             | Impact-resistant, lightweight and comfortable.      
+               | Anti Fog and Anti-scratch coating / Fog Grey frame & adjustable temples / Orange middle / with nose pad. | Available in Clear and Grey Lens             
+                                                         | ORIGIN : TAIWAN                                                                                    | Packing -
+ 300 pcs in one Carton                             | Dimension of Carton - 81 x 26 x 61.5 cm                     | <blank>                                 | 70  |  V121 
+        |                                                                                                                                                                
+| 3       | Model Number - UD131(92023RA)                                                                                                                      | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti Fog and Anti-scratch coating / Fog Grey 
+frame & adjustable temples.                              | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 81 x 26 x 61.5 cm | 71  | V131  
+        |                                                                                                                                                                
+| 3       | Model Number - UD151(S902)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Crystal temples       
+                                                         | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | <blank>                                 | 72  | V151  
+        |                                                                                                                                                                
+| 3       | Model Number - UD161(S904)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Crystal temples       
+                                                         | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 62 x 79 x 23 cm   | 73  | V161  
+        |                                                                                                                                                                
+| 3       | Model Number - UD171(S906)                                                                                                                         | <blank> 
+      | Polycarbonate lenses provide 99.9% UV protection.                                                          | Meets the requirements of EN166 or ANSI Z87.1.      
+               | Impact-resistant, lightweight and comfortable.                                                           | Anti-scratch coating / Crystal temples       
+                                                         | Available in Clear and Grey Lens                                                                   | ORIGIN : 
+TAIWAN                                             | Packing - 300 pcs in one Carton                             | Dimension of Carton - 62 x 79 x 25 cm   | 74  |  V171 
+        |                                                                                                                                                                
+| 3       | Model : UD221 (S914)                                                                                                                               | <blank> 
+      | Features : Polycarbonate Lenses Provide 99.9% UV Protection, Impact-Resistant, Lightweight And Comfortable | Coating : Anti-Scratch                              
+               | Temple : Crystal temples                                                                                 | Lens : Clear / Grey                          
+                                                         | Standard : Meets The Requirements Of EN166 or ANSI Z87.1                                           | Origin : 
+Made In Taiwan                                     | Dimension : 62 X 79 X 23 cm                                 | <blank>                                 | 75  | V221  
+        |                                                                                                                                                                
+| 3       | Model : UD181(90824A)                                                                                                                              | <blank> 
+      | Features : Polycarbonate Lenses Provide 99.9% UV Protection, Impact-Resistant, Lightweight And Comfortable | Coating : Anti-Scratch / Anti-Fog                   
+               | Temple : Crystal temples / clear lens / matt black temple ends.                                          | Lens : Clear / Grey                          
+                                                         | Standard : Meets The Requirements Of EN166 or ANSI Z87.1                                           | Origin : 
+Made In Taiwan                                     | Dimension : 62 X 79 X 23 cm                                 | <blank>                                 | 76  | V181  
+        |                                                                                                                                                                
+| 3       | Model : UD191(90956A)                                                                                                                              | <blank> 
+      | Features : Polycarbonate Lenses Provide 99.9% UV Protection, Impact-Resistant, Lightweight And Comfortable | Coating : Anti-Scratch / Anti-Fog                   
+               | Temple : Fog crystal temples / clear lens / black temples                                                | Lens : Clear / Grey                          
+                                                         | Standard : Meets The Requirements Of EN166 or ANSI Z87.1                                           | Origin : 
+Made In Taiwan                                     | Dimension : 62 X 79 X 23 cm                                 | <blank>                                 | 77  | V191  
+        |                                                                                                                                                                
+| 3       | Model : UD171(S906)                                                                                                                                | <blank> 
+      | Features : Polycarbonate Lenses Provide 99.9% UV Protection, Impact-Resistant, Lightweight And Comfortable | Coating : Anti-Scratch                              
+               | Temple : Fog crystal temples / clear lens / crystal finish                                               | Lens : Clear / Grey                          
+                                                         | Standard : Meets The Requirements Of EN166 or ANSI Z87.1                                           | Origin : 
+Made In Taiwan                                     | Dimension : 62 X 79 X 23 cm                                 | <blank>                                 | 78  | V171  
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | T/C Liner, Latex Coated, Crinkle finish.                                                                   | Flexible and comfortable / Good Grip.               
+               | Anti- Acid and Anti-Alkali, penetration resistance.                                                      | Suitable for mechanical environments.        
+                                                         | Colour - Orange                                                                                    | ORIGIN : 
+CHINA                                              | Packing - 20 Dozen in one Carton                            | Dimension of Carton - 70 x 50 x 26 cm   | 79  | OGL   
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | T/C Liner, Latex Coated, Crinkle finish.                                                                   | Flexible and comfortable / Good Grip.               
+               | Anti- Acid and Anti-Alkali, penetration resistance.                                                      | Suitable for mechanical environments.        
+                                                         | Colour - Green                                                                                     | ORIGIN : 
+CHINA                                              | Packing - 20 Dozen in one Carton                            | Dimension of Carton - 70 x 51 x 26 cm   | 80  | YGL   
+        |                                                                                                                                                                
+| 4       | T/C Liner, Latex Coated, Smooth finish.                                                                                                            | <blank> 
+      | Flexible and comfortable / Good Grip.                                                                      | Anti- Acid and Anti-Alkali, penetration resistance. 
+               | Suitable for mechanical environments.                                                                    | Colour - Green                               
+                                                         | ORIGIN : CHINA                                                                                     | Packing -
+ 20 Dozen in one Carton                            | Dimension of Carton - 65 x 49 x 24 cm                       | <blank>                                 | 81  | VS11  
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Polyster Liner, Latex Coated, Crinkle finish.                                                              | Flexible and comfortable.                           
+               | Good Grip.                                                                                               | Anti- Acid and Anti-Alkali, penetration resis
+tance.                                                   | Suitable for mechanical environments.                                                              | ORIGIN : 
+CHINA                                              | Packing - 20 Dozen in one Carton                            | Dimension of Carton - 47 x 47 x24 cm    | 82  |  VS21 
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Polyster Liner, Latex Coated, Crinkle finish, Heavy Duty                                                   | Flexible and comfortable / Good Grip.               
+               | Anti- Acid and Anti-Alkali, penetration resistance.                                                      | Suitable for mechanical environments.        
+                                                         | Colour - Blue                                                                                      | ORIGIN : 
+CHINA                                              | Packing - 20 Dozen in one Carton                            | Dimension of Carton - 70 x 50 x 26 cm   | 83  | VS31  
+        |                                                                                                                                                                
+| 4       | Cotton knitted Glove, Natural colour with single PVC Dots                                                                                          | <blank> 
+      | Economical and comfortable.                                                                                | Excellent Breathability                             
+               | Anti- slip and abrasion resistance                                                                       | Wide range applications                      
+                                                         | Colour - Yellow                                                                                    | Packing -
+ 20 Dozen in one Carton                            | ORIGIN : CHINA                                              | Dimension of Carton - 62 x 27 x 44 cm   | 84  | VS41  
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Polyster liner, Latex Coated, Crinkle finish, Heavy Duty, Thumb Coated.                                    | Flexible and comfortable / Good Grip.               
+               | Anti- Acid and Anti-Alkali, penetration resistance.                                                      | Suitable for mechanical environments.        
+                                                         | Colour - Green                                                                                     | ORIGIN : 
+CHINA                                              | Packing - 10 Dozen in one Carton                            | Dimension of Carton - 51 x 36 x 24 cm   | 85  | VS51  
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Polyster liner, Latex Coated, Crinkle finish, Heavy Duty, Fully Coated.                                    | Flexible and comfortable / Good Grip.               
+               | Anti- Acid and Anti-Alkali, penetration resistance.                                                      | Suitable for mechanical environments.        
+                                                         | Colour - Blue                                                                                      | ORIGIN : 
+CHINA                                              | Packing - 10 Dozen in one Carton                            | Dimension of Carton - 59 x 44 x 25 cm   | 86  | VS61  
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Cotton Jersy liner, Latex fully coated crinkle finish, safety cuff                                         | Flexible and comfortable / Good Grip.               
+               | Anti- acid and anti-alkali, penetration resistance.                                                      | Suitable for mechanical environments and low 
+temperature environments.                                | Colour - Orange                                                                                    | ORIGIN : 
+CHINA                                              | Packing - 10 Dozen in one Carton                            | Dimension of Carton - 69 x 46 x 25 cm   | 87  | VS71  
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Cotton Jersy Liner, Latex 3/4 coated crinkle finish, Safety Cuff                                           | Flexible and comfortable / Good Grip.               
+               | Anti- Acid and Anti-Alkali, penetration resistance.                                                      | Suitable for mechanical environments and low 
+temperature environments.                                | Colour - Orange                                                                                    | ORIGIN : 
+CHINA                                              | Packing - 10 Dozen in one Carton                            | Dimension of Carton - 69 x 43 x 25 cm   | 88  |  VS81 
+        |                                                                                                                                                                
+| 4       | Cotton knitted Glove, Natural colour with single PVC Dots double side.                                                                             | <blank> 
+      | Economical and comfortable.                                                                                | Excellent Breathability                             
+               | Anti- slip and abrasion resistance                                                                       | Wide range applications                      
+                                                         | Colour - Blue                                                                                      | ORIGIN : 
+CHINA                                              | Packing - 20 Dozen in one Carton                            | Dimension of Carton - 64 x 26 x 26 cm   | 89  | VS91  
+        |                                                                                                                                                                
+| 4       | Cotton knitted Glove, Natural colour with single PVC Dots double side.                                                                             | <blank> 
+      | Economical and comfortable.                                                                                | Excellent Breathability                             
+               | Anti- slip and abrasion resistance                                                                       | Wide range applications                      
+                                                         | Colour - Yellow                                                                                    | ORIGIN : 
+CHINA                                              | Packing - 20 Dozen in one Carton                            | Dimension of Carton - 62 x 25 x 45 cm   | 90  |  VS92 
+        |                                                                                                                                                                
+| 4       | Resist Oils, Acid, Detergents & Most chemicals                                                                                                     | <blank> 
+      | Flexible and comfortable.                                                                                  | Good Grip.                                          
+               | 70 gms                                                                                                   | Colour - Black                               
+                                                         | ORIGIN : CHINA                                                                                     | Packing -
+ 10 Dozen in one Carton                            | Dimension of Carton - 45 x 34 x 24 cm                       | <blank>                                 | 91  | VS101 
+        |                                                                                                                                                                
+| 4       | Resist Oils, Acid, Detergents & Most chemicals                                                                                                     | <blank> 
+      | Heavy Duty, Flexible and comfortable.                                                                      | Good Grip.                                          
+               | 170 gms                                                                                                  | Colour - Black                               
+                                                         | ORIGIN : CHINA                                                                                     | Packing -
+ 10 Dozen in one Carton                            | Dimension of Carton - 54 x 35 x 27 cm                       | <blank>                                 | 92  | V111  
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Polyster Liner, Latex Coated, Nitile coated gloves                                                         | Flexible and comfortable.                           
+               | Excellent abrasion resistace                                                                             | Oil Proof, Anti-Acid and Anti- Alkali        
+                                                         | Colour - Grey                                                                                      | ORIGIN : 
+CHINA                                              | Packing - 20 Dozen in one Carton                            | Dimension of Carton - 70 x 50 x 26 cm   | 93  | GNG   
+        |                                                                                                                                                                
+| 4       | EN388                                                                                                                                              | <blank> 
+      | Flexible and good feeling                                                                                  | Abrasion resistance, tear reistance                 
+               | Antistatic                                                                                               | Colour - White                               
+                                                         | ORIGIN : CHINA                                                                                     | Packing -
+ 10 Dozen in one Carton                            | Dimension of Carton - 46 x 22 x 25 cm                       | <blank>                                 | 94  |  WP9  
+        |                                                                                                                                                                
+| 4       | Cow split leather gloves, with piping                                                                                                              | <blank> 
+      | 16 inches.                                                                                                 | Red colour with black piping                        
+               | General handling, Logistics, welding & other hot applications.                                           | ORIGIN : PAKISTAN                            
+                                                         | Packing - 5 Dozen in one Carton                                                                    | Dimension
+ of Carton - 78 x 41 x 24 cm                       | <blank>                                                     | <blank>                                 | 95  |  VP   
+        |                                                                                                                                                                
+| 4       | Cow split leather glove, with reinforced palm, thumb & index finger                                                                                | <blank> 
+      | Grey leather and heavy duty yellow cloth.                                                                  | Size - 10.5 inch                                    
+               | General handling, Logistics, Agricuture & maintenance industries.                                        | ORIGIN : CHINA                               
+                                                         | Packing - 10 Dozen in one Carton                                                                   | Dimension
+ of Carton - 66 x 37 x 28 cm                       | <blank>                                                     | <blank>                                 | 96  | DPY   
+        |                                                                                                                                                                
+| 4       | Cow split leather glove, with reinforced palm, thumb & index finger                                                                                | <blank> 
+      | Grey leather and heavy duty green cloth.                                                                   | Size - 10.5 inch                                    
+               | General handling, Logistics, Agricuture & maintenance industries.                                        | ORIGIN : CHINA                               
+                                                         | Packing - 10 Dozen in one Carton                                                                   | Dimension
+ of Carton - 66 x 37 x 28 cm                       | <blank>                                                     | <blank>                                 | 97  | DPG   
+        |                                                                                                                                                                
+| 4       | Cow split leather gloves, without piping                                                                                                           | <blank> 
+      | 16 inches.                                                                                                 | Red colour leather                                  
+               | General handling, Logistics, welding & other hot applications.                                           | ORIGIN : PAKISTAN                            
+                                                         | Packing - 6 Dozen in one Carton                                                                    | Dimension
+ of Carton - 66 x 40 x 28 cm                       | <blank>                                                     | <blank>                                 | 98  | WGR   
+        |                                                                                                                                                                
+| 4       | Cow split leather gloves, with piping                                                                                                              | <blank> 
+      | Red colour with black piping                                                                               | General handling, Logistics, welding & other hot app
+lications.     | ORIGIN : PAKISTAN                                                                                        | Packing - 6 Dozen in one Carton              
+                                                         | Dimension of Carton - 66 x 40 x 28 cm                                                              | <blank>  
+                                                   | <blank>                                                     | <blank>                                 | 99  | WG12  
+        |                                                                                                                                                                
++---------+----------------------------------------------------------------------------------------------------------------------------------------------------+---------
+------+------------------------------------------------------------------------------------------------------------+-----------------------------------------------------
+---------------+----------------------------------------------------------------------------------------------------------+----------------------------------------------
+---------------------------------------------------------+----------------------------------------------------------------------------------------------------+----------
+---------------------------------------------------+-------------------------------------------------------------+-----------------------------------------+-----+-------
+--------+                                                                                                                                                                
